@@ -1,0 +1,22 @@
+
+-----
+Test: test_checkout_logged.py::test_open_page (call)
+Start time: 2024-08-02 09:40:48.406400
+Start name method: authorization
+
+End time: 2024-08-02 09:40:53.282352
+End name method: authorization
+URL: https://test.sugaringfactory.com/index.php?route=account%2Faccount
+
+-----
+
+-----
+Test: test_checkout_logged.py::test_open_page (call)
+Start time: 2024-08-02 09:41:00.535577
+Start name method: checkout
+
+End time: 2024-08-02 09:41:14.611690
+End name method: checkout
+URL: https://test.sugaringfactory.com/index.php?route=checkout%2Fcheckout%2Fpay
+
+-----

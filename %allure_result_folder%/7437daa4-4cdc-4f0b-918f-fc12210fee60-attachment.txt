@@ -1,0 +1,49 @@
+Current URL is: https://test.sugaringfactory.com/
+Private Labeling Page Clicked
+Current URL is: https://test.sugaringfactory.com/private-labeling
+Good URL https://test.sugaringfactory.com/private-labeling
+Sugar Paste Clicked
+Tubes is clicked
+Size Clicked
+Soft Quantity Entered
+Gentle Quantity Entered
+Ultra Quantity Entered
+Ultima Quantity Entered
+Save and proceed Clicked
+Ready Design Clicked
+Read and Sign Clicked
+Word is: PRIVATE LABEL SELECTOR AND MANUFACTURING AGREEMENT
+Agree and Sign Clicked with ActionChains
+Input First Name
+Input Last Name
+Input email
+Input state
+Input Zipcode
+Input city
+Input name of street
+Input Date of Birth
+Sign And Submit Clicked with ActionChains
+Hovered the mouse over the icon 'Cart'
+Checkout button clicked
+Good URL https://test.sugaringfactory.com/index.php?route=checkout%2Fcart
+Word is: Shopping Cart
+Continue checkout button clicked
+Word is: Checkout
+First Name input
+Last Name input
+Email input
+Telephone input
+City input
+Address input
+Zip input
+State selected
+Checkbox payment clicked
+Checkbox signature clicked
+Comment field is full
+checkbox cash clicked
+checkbox delivery terms clicked
+accept button clicked
+confirm button clicked
+confirm 2 button clicked
+Screenshot done
+Checkout process completed!

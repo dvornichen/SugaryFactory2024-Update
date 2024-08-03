@@ -1,0 +1,40 @@
+Current URL is: https://test.sugaringfactory.com/
+Login page is clicked
+Current URL is: https://test.sugaringfactory.com/index.php?route=account%2Flogin
+Word is: Account Login
+Good URL https://test.sugaringfactory.com/index.php?route=account%2Flogin
+Input Email
+Input Password
+Login button entered
+Word is: My Account
+Good URL https://test.sugaringfactory.com/index.php?route=account%2Faccount
+Button main store clicked
+Good URL https://test.sugaringfactory.com/sugaring-paste
+Word is: Sugaring Store
+Selected product
+Good URL https://test.sugaringfactory.com/sugaring-paste/soft
+Button 'Add to cart' is clicked
+Modal dialog success
+Button main store clicked
+Good URL https://test.sugaringfactory.com/sugaring-paste
+Word is: Sugaring Store
+Selected product
+Good URL https://test.sugaringfactory.com/sugaring-paste/set-of-twelve-scrubs
+Option coffe is clicked
+Option bamboo is clicked
+Option charcoal is clicked
+Button 'Add to cart' is clicked
+Modal dialog success
+Hovered the mouse over the icon 'Cart'
+Checkout button clicked
+Good URL https://test.sugaringfactory.com/index.php?route=checkout%2Fcart
+Word is: Shopping Cart
+162.68 691.20 853.88
+Price shopping cart is: 162.68 691.20 Total: 853.88
+Continue checkout button clicked
+Word is: Checkout
+Checkbox signature clicked
+Comment field is full
+checkbox cash clicked
+checkbox delivery terms clicked
+accept button clicked
